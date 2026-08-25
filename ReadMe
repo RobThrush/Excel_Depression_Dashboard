@@ -1,1 +1,11 @@
+## Excel Depression Dashboard
+* A portfolio project showcasing interactive dashboard design, KPI cards, and analytical Excel techniques*
 
+### Project Overview
+
+This project demonstrates my ability to design an interactive dashboard using synthetic teen mental-health data. The dashboard highlights behavioral differences between the participants that were labeled depressed and labeled non-depressed using dynamic visuals, slicers, and KPI cards.
+
+The goal of this project is to showcase: 
+- Proficient dashboard building skills
+- Interactive selections for user input
+- Custom KPI cards built manually using formula, shapes, and conditional formatting
