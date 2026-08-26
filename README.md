@@ -79,6 +79,14 @@ Interactivity:
 - Charts and KPI cards respond instantly to slicer changes
 - Workbook protection ensures users can only interact with slicers, keeping navigation straightforward
 
+### Skills Demonstrated
+- Excel Dashboard Design
+- KPI Development
+- Slicer-driven Interactivity
+- Dynamic Charts
+- Formula-based Metrics
+- Documentation and Communication
+
 ### How to Access
 1. Download the Excel File named *Depression_Dashboard.xlxs* under the *Dashboard* Folder
 2. Enable editing
