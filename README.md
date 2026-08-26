@@ -54,7 +54,7 @@ Formula Techniques:
 Used to compute key metrics such as GPA and screentime. Median was preferred over average due to class imbalance between depressed and non-depressed participants, reducing the impact of outliers.
 - Defined Names
 Used for cleaner references and easier dashboard finalization.
--COUNTIFS
+- COUNTIFS
 Used frequently to evaluate how many participants met specific conditions, identify class imbalance, and validate conditional logic (sanity checks). Also used to build the depression status percentage chart. 
 - SWITCH()
 Used to convert binary depression labels (0/1) into "Not Depressed" and "Depressed" for stakeholder readibility. Also used to standardize gender labels from lowercase ("male, "female") to capitalized ("Male", "Female").
