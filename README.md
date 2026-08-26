@@ -56,7 +56,7 @@ Used to compute key metrics such as GPA and screentime. Median was preferred ove
 Used for cleaner references and easier dashboard finalization.
 - COUNTIFS
 Used frequently to evaluate how many participants met specific conditions, identify class imbalance, and validate conditional logic (sanity checks). Also used to build the depression status percentage chart. 
-- SWITCH()
+- SWITCH
 Used to convert binary depression labels (0/1) into "Not Depressed" and "Depressed" for stakeholder readibility. Also used to standardize gender labels from lowercase ("male, "female") to capitalized ("Male", "Female").
 
 Summary of Key Metric Calculations:
