@@ -13,6 +13,8 @@ The goal of this project is to showcase:
 
 This project is intentionally built in Excel to demonstrate proficiency in Excel-based BI work.
 
+![Dashboard Overview](Screenshots/Whole_Dashboard.png)
+
 ### Dataset
 The dataset is fully synthetic and includes variables such as:
 - Age & Gender
