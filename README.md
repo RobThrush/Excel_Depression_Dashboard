@@ -52,20 +52,20 @@ These KPIs update instantly based on the slicer selections.
 Formula Techniques:
 - MEDIANIFS\
   Used to compute key metrics such as GPA and screentime. Median was preferred over average due to class imbalance between depressed and non-depressed participants, reducing the impact of outliers.
-- Defined Names
-Used for cleaner references and easier dashboard finalization.
-- COUNTIFS
-Used frequently to evaluate how many participants met specific conditions, identify class imbalance, and validate conditional logic (sanity checks). Also used to build the depression status percentage chart. 
-- SWITCH
-Used to convert binary depression labels (0/1) into "Not Depressed" and "Depressed" for stakeholder readibility. Also used to standardize gender labels from lowercase ("male, "female") to capitalized ("Male", "Female").
+- Defined Names\
+  Used for cleaner references and easier dashboard finalization.
+- COUNTIFS\
+  Used frequently to evaluate how many participants met specific conditions, identify class imbalance, and validate conditional logic (sanity checks). Also used to build the depression status percentage chart. 
+- SWITCH\
+  Used to convert binary depression labels (0/1) into "Not Depressed" and "Depressed" for stakeholder readibility. Also used to standardize gender labels from lowercase ("male, "female") to capitalized ("Male", "Female").
 
 Summary of Key Metric Calculations:
-- Behavioral Composite
-Sums stress, anxiety, and addiction levels to create simple behavioral indicator
-- Median GPA
-Calculated using MEDIANIFS, filtered dynamically based on slicer selections.
-- Screentime KPI
-Uses COUNTIFS to calculate the percentage of participants with more than 2 hours of daily screentime.
+- Behavioral Composite\
+  Sums stress, anxiety, and addiction levels to create simple behavioral indicator
+- Median GPA\
+  Calculated using MEDIANIFS, filtered dynamically based on slicer selections.
+- Screentime KPI\
+  Uses COUNTIFS to calculate the percentage of participants with more than 2 hours of daily screentime.
 The 2-hour threshold was chosen based on Digital Media Use and Screen Time Exposure Among Youths: A Lifestyle-Based Public Health Concern authored by Khanani et al., and published by the National Library of Medicine.
 https://pmc.ncbi.nlm.nih.gov/articles/PMC12364383/
 
