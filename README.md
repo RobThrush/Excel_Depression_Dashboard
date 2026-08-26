@@ -50,8 +50,8 @@ These KPIs update instantly based on the slicer selections.
 ### Technical Highlights
 
 Formula Techniques:
-- MEDIANIFS
-Used to compute key metrics such as GPA and screentime. Median was preferred over average due to class imbalance between depressed and non-depressed participants, reducing the impact of outliers.
+- MEDIANIFS\
+  Used to compute key metrics such as GPA and screentime. Median was preferred over average due to class imbalance between depressed and non-depressed participants, reducing the impact of outliers.
 - Defined Names
 Used for cleaner references and easier dashboard finalization.
 - COUNTIFS
