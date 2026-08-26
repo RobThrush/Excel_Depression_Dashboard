@@ -59,7 +59,7 @@ Used frequently to evaluate how many participants met specific conditions, ident
 - SWITCH()
 Used to convert binary depression labels (0/1) into "Not Depressed" and "Depressed" for stakeholder readibility. Also used to standardize gender labels from lowercase ("male, "female") to capitalized ("Male", "Female").
 
-Summary of how key metrics are calculated
+Summary of Key Metric Calculations:
 - Behavioral Composite
 Sums stress, anxiety, and addiction levels to create simple behavioral indicator
 - Median GPA
