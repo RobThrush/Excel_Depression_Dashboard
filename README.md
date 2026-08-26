@@ -37,11 +37,15 @@ Dynamic Charts
 - Behavioral Composite Scores
 The charts update instantly based on slicer selections.
 
+![Slicers & Charts](Screenshots/Slicers_Charts.png)
+
 Custom KPI Cards
 - Displaying the percentage of participants that exceeded 2 hours of screentime
 - Median GPAs
 - Average social interaction
 These KPIs update instantly based on the slicer selections.
+
+![KPI Cards](Screenshots/KPI_Cards.png)
 
 ### Technical Highlights
 
