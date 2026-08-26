@@ -64,7 +64,7 @@ Interactivity:
 - Workbook protection ensures users can only interact with slicers, keeping navigation straightforward
 
 ### How to Access
-1. Download the Excel File located in the *Dashboard File* folder under the main branch
+1. Download the Excel File named *Depression_Dashboard.xlxs* under the main branch
 2. Enable editing
 3. Use slicers to explore the differences betwen depressed and non-depressed participants by their gender
 4. Review the charts and KPI charts for insights
